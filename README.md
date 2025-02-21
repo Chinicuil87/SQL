@@ -40,6 +40,8 @@ Este repositorio está organizado en las siguientes carpetas según la plataform
 4. **[YouTube](youtube)**: Proyectos basados en tutoriales y cursos gratuitos.
 5. **[Udemy](udemy)**: Ejercicios y proyectos realizados durante los cursos de Udemy.
 
+- 5.1 **[SQL Total](<udemy/SQL Total>)**
+
 ---
 
 ## Estatus del Proyecto

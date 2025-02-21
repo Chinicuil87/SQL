@@ -43,14 +43,15 @@ Repositorio que contiene todos los proyectos y ejercicios realizados en el curso
 
 ## Proyectos y Ejercicios
 
-### [Udemy](./Udemy/)
+### [Udemy](https://www.udemy.com/course/sql-total)
 
 - **SQL TOTAL - Domina Bases de Datos de 0 a Avanzado en 12 Días**  
   ![Static Badge](https://img.shields.io/badge/ESTATUS-En_Proceso-yellow)
 
-### [General](./general/)
+- **[BlogDB](BlogDB.sql)**  
+  ![Static Badge](https://img.shields.io/badge/ESTATUS-Terminado-green)
 
-- **Hola Mundo**  
+- **[NetflixDB](NetflixDB.sql)**  
   ![Static Badge](https://img.shields.io/badge/ESTATUS-Terminado-green)
 
 ---

@@ -78,8 +78,6 @@ y se relaciona con PostID de la tabla de publicaciones
  */
 ALTER TABLE `blogdb`.`comentarios` ADD INDEX `postid_idx` (`PostID` ASC) VISIBLE;
 
-;
-
 ALTER TABLE `blogdb`.`comentarios` ADD CONSTRAINT `postid` FOREIGN KEY (`PostID`) REFERENCES `blogdb`.`publicaciones` (`PostID`) ON DELETE NO ACTION ON UPDATE NO ACTION;
 
 --Agrgar datos a la tabla de Usuarios
